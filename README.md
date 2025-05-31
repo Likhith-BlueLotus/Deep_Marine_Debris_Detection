@@ -1,5 +1,9 @@
 # 🌊 Deep-Sea Marine Debris Detection with YOLOv11x
 
+## 📽️ Detection Demo
+ 
+https://github.com/user-attachments/assets/8640b47c-5bf7-4b52-8e2d-3285f992cdbe
+
 ## 📘 Introduction
 
 Marine debris in deep-sea environments poses significant threats to marine ecosystems due to its persistence and inaccessibility. While surface-level and coastal pollution mitigation efforts have progressed, the complexity of underwater environments has limited advancements in detecting and removing deep-sea debris effectively.
@@ -43,9 +47,6 @@ Expected contributions include a valuable dataset for future research, a high-pe
 - **mAP@0.5**: Improved from 0.20 to 0.80.
 - **Latency**: Reduced by 40% through optimization techniques.
 
-## 📽️ Detection Demo
- 
-https://github.com/user-attachments/assets/8640b47c-5bf7-4b52-8e2d-3285f992cdbe
 
 
 <!--
