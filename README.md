@@ -45,12 +45,8 @@ Expected contributions include a valuable dataset for future research, a high-pe
 
 ## 📽️ Detection Demo
 
-<p align="center">
-  <img src="path_to_your_detected_video.gif" alt="Detection Demo" width="600"/>
-</p>
+<div align="center"> <video width="600" controls> <source src="6K1576C2HDF1057.mp4" type="video/mp4"> Your browser does not support the video tag. </video> </div>
 
-*Note: Replace `ffmpeg -i 6K1576C2HDF1057.avi -c:v copy -c:a copy 6K1576C2HDF1057.mp4
-` with the actual path or URL to your detection video.*
 
 ## 🛠️ Languages & Tools
 
