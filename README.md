@@ -49,7 +49,8 @@ Expected contributions include a valuable dataset for future research, a high-pe
   <img src="path_to_your_detected_video.gif" alt="Detection Demo" width="600"/>
 </p>
 
-*Note: Replace `path_to_your_detected_video.gif` with the actual path or URL to your detection video.*
+*Note: Replace `ffmpeg -i 6K1576C2HDF1057.avi -c:v copy -c:a copy 6K1576C2HDF1057.mp4
+` with the actual path or URL to your detection video.*
 
 ## 🛠️ Languages & Tools
 
