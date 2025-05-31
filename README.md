@@ -1,9 +1,5 @@
 # 🌊 Deep-Sea Marine Debris Detection with YOLOv11x
 
-<p align="center">
-  <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="Project Banner" />
-</p>
-
 ## 📘 Introduction
 
 Marine debris in deep-sea environments poses significant threats to marine ecosystems due to its persistence and inaccessibility. While surface-level and coastal pollution mitigation efforts have progressed, the complexity of underwater environments has limited advancements in detecting and removing deep-sea debris effectively.
@@ -73,11 +69,4 @@ Expected contributions include a valuable dataset for future research, a high-pe
 - Python 3.8+
 - PyTorch
 - OpenCV
-- Docker (optional for containerized deployment)
 
-### Installation
-
-```bash
-git clone https://github.com/yourusername/deep-sea-debris-detection.git
-cd deep-sea-debris-detection
-pip install -r requirements.txt
