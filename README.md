@@ -44,9 +44,9 @@ Expected contributions include a valuable dataset for future research, a high-pe
 - **Latency**: Reduced by 40% through optimization techniques.
 
 ## 📽️ Detection Demo
-<div align="center"> 
+ 
 https://github.com/user-attachments/assets/8640b47c-5bf7-4b52-8e2d-3285f992cdbe
-</div>
+
 
 <!--
 <video width="600" controls>
